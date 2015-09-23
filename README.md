@@ -1,1 +1,1 @@
-# bobs-new-repositiry
+# bobs-new-repository
